@@ -1,0 +1,11 @@
+const HOME_ROUTE='/';
+const ABOUT_ROUTE='/about';
+const CONTACT_ROUTE='/contact';
+const PRODUCT_ROUTE='/product';
+const CART_ROUTE='/cart';
+const PAYMENT_ROUTE='/payment';
+const SUCCESS_ROUTE='/success';
+const FAILURE_ROUTE='/failure';
+const LOGIN_ROUTE='/login';
+const REGISTER_ROUTE='/register';
+export{HOME_ROUTE,ABOUT_ROUTE,CONTACT_ROUTE,PRODUCT_ROUTE,LOGIN_ROUTE,REGISTER_ROUTE,CART_ROUTE,PAYMENT_ROUTE,SUCCESS_ROUTE,FAILURE_ROUTE}
